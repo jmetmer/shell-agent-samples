@@ -1,24 +1,9 @@
 {
     "Job1": {
-        "JenkinsAPIToken": "<Your Jenkins API Token>",
-        "JenkinsJobName": "<Your Jenkins Job Name>",
-        "JenkinsJobToken": "<Your Jenkins Job Trigger Token>",
-        "JenkinsURL": "<Your Jenkins instance URL>",
-        "JenkinsUserName": "<Your Jenkins User Name>"
-    },
-    "Job2": {
-        "JenkinsAPIToken": "<Your Jenkins API Token>",
-        "JenkinsJobName": "<Your Jenkins Job Name>",
-        "JenkinsJobToken": "<Your Jenkins Job Trigger Token>",
-        "JenkinsURL": "<Your Jenkins instance URL>",
-        "JenkinsUserName": "<Your Jenkins User Name>"
-    },
-    "Job3": {
-        "JenkinsAPIToken": "<Your Jenkins API Token>",
-        "JenkinsJobName": "<Your Jenkins Job Name>",
-        "JenkinsJobToken": "<Your Jenkins Job Trigger Token>",
-        "JenkinsURL": "<Your Jenkins instance URL>",
-        "JenkinsUserName": "<Your Jenkins User Name>"
+        "JenkinsAPIToken": "1132e9d6c835d6922e4ef4f7002fdf98a5",
+        "JenkinsJobName": "Katalon API Testing",
+        "JenkinsJobToken": "QTEST",
+        "JenkinsURL": "http://localhost:8080",
+        "JenkinsUserName": "Jerome Metmer"
     }
-
 }
